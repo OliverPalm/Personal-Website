@@ -4,3 +4,4 @@ TODO
     * Bio 
     * Projects tab
     * Link to CV
+    * link to ass socials
