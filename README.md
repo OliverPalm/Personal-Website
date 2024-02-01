@@ -6,7 +6,7 @@ TODO
 * Link to CV
 * link to all socials
     * <del>Github</del>
-    * LinkedIn
+    * <del>Linkedin</del>
     * Twitter
     * Facebook
     * Youtube
