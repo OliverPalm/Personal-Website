@@ -5,3 +5,8 @@ TODO
 * Projects tab
 * Link to CV
 * link to all socials
+    [x] Github
+    [x] LinkedIn
+    * Twitter
+    * Facebook
+    * Youtube
