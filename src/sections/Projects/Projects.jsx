@@ -9,7 +9,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://elaborate-gingersnap-92a5cd.netlify.app/"
+          link="https://oliverpalm-snake.netlify.app/"
           h3="Snake"
           p="Snake in your browser!"
         />
