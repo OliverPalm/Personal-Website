@@ -46,9 +46,9 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>Engineering student at LTH</p>
-        <a href={CV} download>
+        {/* <a href={CV} download>
           <button className="hover">Resume</button>
-        </a>
+        </a> */}
       </div>
     </section>
   );
